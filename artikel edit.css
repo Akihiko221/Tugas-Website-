@@ -1,0 +1,35 @@
+h1{
+    font-size: 20pt;
+    color: white;
+    text-align: center;
+    font-weight: 300;
+    font: bold;
+    font-family: sans-serif;
+}
+
+.kolom_artikel{
+    font-size: 16pt;
+    color: black;
+    width: 850px;
+    background-color: rgba(255, 255, 255, 0.5);
+    margin: 80px auto;
+    padding: 30px 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body{
+    background-image: url(Kanna2.jpg)
+}
+
+h2{
+    text-align: left;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#header{
+    background-color: rgba(255, 255, 255, 0.5);;
+    bottom: 5px;
+    text-align: center;
+    padding: 25px;
+    font-size: xx-large;
+}
